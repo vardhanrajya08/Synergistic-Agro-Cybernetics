@@ -169,11 +169,6 @@
                     echo "</br></br></td>";
 
                     // Page reloading to update datas (Two Options)
-
-                    // Option One
-                    //header("Refresh:5; url=http://127.0.0.1/PiantaArduino/pianta.php");
-
-                    // Option Two
                     sleep(5);
                 ?>
                 <script>
