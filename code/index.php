@@ -5,6 +5,7 @@
                 using another type of plant you should use different numbers.
 -->
 
+<!-- main page -->
 <html>
     <head>
         <title>Synergistic Agro Cybernetics</title>
